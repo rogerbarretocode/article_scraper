@@ -1,3 +1,3 @@
 ## Demo
 
-[Watch the demo video](./article scraper.mp4)
+[Watch the demo video](article scraper.mp4)
