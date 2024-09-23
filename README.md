@@ -1,3 +1,3 @@
 ## Demo
 
-[Download Demo Video](./demo.mp4)
+[Download Demo Video](https://github.com/rogerbarretocode/article_scraper/blob/main/demo.mp4)
