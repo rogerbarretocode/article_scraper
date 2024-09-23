@@ -1,3 +1,3 @@
 ## Demo
 
-![Demo Video](./demo.mp4)
+[Download Demo Video](demo.mp4)
